@@ -1,0 +1,5 @@
+train(
+    {
+    "category":["we","er","rt"],
+    "data":[12,34,55]
+})
